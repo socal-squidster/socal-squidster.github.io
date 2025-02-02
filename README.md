@@ -1,2 +1,2 @@
 # socal-squidster.github.io
-Github IO page for Salty Analysis.
+Github IO page for SoCal Squidster.
